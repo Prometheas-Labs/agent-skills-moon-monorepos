@@ -5,7 +5,7 @@ description: "Use when configuring .moon/workspace.yml, .moon/toolchains.yml, pr
 
 # Moon v2 — Workspace Configuration
 
-Reference for `.moon/workspace.yml` and workspace-level concerns. Check AGENTS.md for project-specific conventions.
+Reference for `.moon/workspace.yml` and workspace-level concerns.
 
 ## workspace.yml Structure
 

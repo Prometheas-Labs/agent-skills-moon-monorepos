@@ -5,7 +5,7 @@ description: "Use when creating or modifying moon.yml project configs, adding ta
 
 # Moon v2 — Project Configuration
 
-Reference for `moon.yml` files. Check AGENTS.md for project-specific conventions.
+Reference for `moon.yml` project configuration files.
 
 ## Project Metadata
 

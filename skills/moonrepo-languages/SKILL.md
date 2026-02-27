@@ -5,7 +5,7 @@ description: "Use when adding a new Moon project by language, creating language-
 
 # Moon v2 — Language Patterns
 
-Concise per-language Moon v2 patterns. Check AGENTS.md for project-specific conventions. See `docs/development/moon-*.md` for detailed guides.
+Concise per-language Moon v2 patterns for common project types.
 
 ## PHP
 
